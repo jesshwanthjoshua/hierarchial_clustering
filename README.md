@@ -1,0 +1,1 @@
+The objective of this project is to implement a Hierarchical Clustering technique to automatically group news articles based on their content similarity, such as word usage patterns, topics, and metadata (e.g., publication date, category, author).
